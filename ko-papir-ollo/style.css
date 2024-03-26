@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url('images/background.jpg');
+    background-image: url('./images/background.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -26,19 +26,19 @@ body {
 .button1 {
     width: 200px;
     height: 200px;
-    background-image: url('images/ko.jpg');
+    background-image: url('./images/ko.jpg');
 }
 
 .button2 {
     width: 250px;
     height: 150px;
-    background-image: url('images/papir.jpg');
+    background-image: url('./images/papir.jpg');
 }
 
 .button3 {
     width: 200px;
     height: 250px;
-    background-image: url('images/ollo.jpg');
+    background-image: url('./images/ollo.jpg');
 }
 
 .button:hover {
